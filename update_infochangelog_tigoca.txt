@@ -1,0 +1,38 @@
+1.1.69
+Fix input bug
+
+1.1.62
+Fix update bug
+Fix autocad bug
+
+1.0.39
+Fux server
+
+1.0.37
+Update InSoft license func
+
+1.0.34
+Update func bug fix
+
+1.0.22
+DeviceID fix bug
+License fix bug
+
+1.0.19
+Improve performance
+Remember windows position
+Delete Facebook pages
+Fix bug
+
+1.0.16
+Fix bug
+
+1.0.15
+UI fix
+Add English language
+
+1.0.14
+Fix bug
+
+1.0.0
+Software public.
