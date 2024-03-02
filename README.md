@@ -9,6 +9,9 @@ Tigoca app
 
 # About
 Tidev is programmed and directly managed by Kha Thi Nguyen.
+
 Address: Ben Tre, Vietnam.
+
 Email: khathinkt@icloud.com
+
 https://tidevapp.wordpress.com
