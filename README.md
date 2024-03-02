@@ -7,7 +7,7 @@ Tigoca là phần mềm Trắc địa giúp bạn tính giá trị góc và cạ
 
 [<img src="websource/github_download.png" width="32">](https://raw.githubusercontent.com/khathiatz/tigoca/master/Tigoca%20Installer.exe) [Download installer for Windows 10](https://raw.githubusercontent.com/khathiatz/tigoca/master/Tigoca%20Installer.exe)
 
-[<img src="websource/github_download.png" width="32">](https://raw.githubusercontent.com/khathiatz/tigoca/master/Tigoca%20Installer.bat) [Download installer for Windows 10](https://raw.githubusercontent.com/khathiatz/tigoca/master/Tigoca%20Installer.bat)
+[<img src="websource/github_download.png" width="32">](https://raw.githubusercontent.com/khathiatz/tigoca/master/Tigoca%20Installer.bat) [Download installer for Windows 10 (Right click → Save link as)](https://raw.githubusercontent.com/khathiatz/tigoca/master/Tigoca%20Installer.bat)
 
 # Tuyên bố trách nhiệm
 
