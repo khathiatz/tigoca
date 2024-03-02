@@ -1,4 +1,4 @@
-<img src="websource/logo.png" width="900">
+<img src="websource/logo.png" width="400">
 
 # Tigoca
 Tigoca app
